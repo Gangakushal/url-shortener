@@ -14,7 +14,7 @@ body {
 }
 
 .short-url a {
-  color: #0ef;
+  color: rgb(255, 0, 0);
   text-decoration: none;
 }
 
